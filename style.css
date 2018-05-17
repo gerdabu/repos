@@ -1,0 +1,46 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+@import url('https://fonts.googleapis.com/css?family=Nunito:200');
+
+body {
+  background-color: blue;
+  font-family: 'Nunito', sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: white;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+}
+/* Link: */
+
+/* Grundlagen-Style */
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+/* Besucht */
+a:visited {
+  color: rgba(255, 255, 255, 0.83);
+}
+
+/* Aktiv */
+a:active {
+  color: rgba(226, 255, 0, 0.13);
+}
+
+/* Überfahren */
+a:hover {
+  text-decoration: underline;
+}
+
+
+
+
+/* Ende link */
