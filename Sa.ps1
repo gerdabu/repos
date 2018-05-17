@@ -1,1 +1,2 @@
-﻿Stop-Computer
+#Power Shell Kommado
+Stop-Computer
